@@ -1,33 +1,4 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
-
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
-
-http://md.photomerchant.net/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+##StudySourceOnline
+StudySourceOnline provides PDF of all kinds of IIT JEE or other engineering entrance examination's study material for free. These PDFs are mostly available on the internet, so we sort all the material in the best possible way, so that students do not waste their time on different websites. We believe that by providing free PDFs, students with weak financial background can also learn with no boundaries.
+###Disclaimer:
+We do not own these books/materials, neither created nor scanned. We provide the links which are already available on the internet. For any queries, or disclaimer are requested to kindly contact us – studysourceonline@gmail.com, we assure you that we will do our best. If Publisher have any problem, We will remove the link within 24 hours. We DO NOT SUPPORT PIRACY, this copy was provided for students who are financially troubled but deserving to learn. Thank you!
